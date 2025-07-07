@@ -4,5 +4,5 @@
 ![image](https://github.com/user-attachments/assets/be7d5f46-fe75-4c0c-aba0-03c0c8df2369)
 
 ## Author
-Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
-LucasDev89 - https://github.com/LucasDev89 
+Co-authored-by: Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
+Co-authored-by: LucasDev89 - https://github.com/LucasDev89 
