@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-# Author : Prajjwal Pathak (pyguru)
+# Author : Nguyen Hoang Hai - [@nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
 # Date : Thursday, 28 October, 2021
 
 import random
